@@ -1,5 +1,3 @@
 # Bash scripts
 
-clyde_nakamoto@coinos.io
-
-https://coinos.io/clyde_nakamoto
+myedward35@walletofsatoshi.com
